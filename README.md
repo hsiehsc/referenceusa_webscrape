@@ -44,6 +44,9 @@ Wait for the installation to finish. The installation will be finished when the 
 **Q. Where is my scraped file stored?**  
 **A.** The file is stored in the same folder that the webscrape.R file is.
 
+**Q. How do I know when the scraping is done?**  
+**A.** The red stop sign will disappear.
+
 **Q. What format is my file in?**  
 **A.** The file is a .csv (Comma Separated Values) file that Excel should have no problem reading. Do note that if you want to edit that file by changing the appearance or spacing of columns, re-save the file as a **.xlsx** file. The **.csv** file only stores raw data.
 
