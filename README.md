@@ -14,7 +14,7 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 **Make sure that the ZIP file is extracted. It might appear as a normal folder on Windows, but it's likely you'll have to right click that downloaded folder and click Extract Here.**
 8. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.
 
-### Step 1
+### Step 1 - All steps in this tutorial match the steps in the webscrape.R script
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
 The block of code should look like 
 `install.packages("RSelenium")`
