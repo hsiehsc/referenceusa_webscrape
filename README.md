@@ -1,5 +1,5 @@
 
-# Reference USA Webscraper
+# Reference USA Webscraper for R
 A webscraper written in R and Selenium to scrape entries from Reference USA
 
 ## Installation Tutorial
