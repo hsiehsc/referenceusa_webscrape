@@ -12,7 +12,7 @@ Please carefully follow all steps.
 1.	Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
 2.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
 3.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
-4.	Open the **webscrape.R** file. If Windows does not automatically associate the .R file extension with R, you may need to manually open up RStudio and open the webscrape.R file. In the top left corner of RStudio, File -> Open File -> navigate to webscrape.R.
+4.	Open RStudio and copy and paste the **webscrape.R** file into the top left quadrant of RStudio. The file can be found above the readme. 
 
 ### Step 1
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, highlight the block of code and hit run in the top right of the quadrant.
