@@ -1,16 +1,17 @@
+
 # Reference USA Webscraper
 A webscraper written in R and Selenium to scrape entries from Reference USA
 
 ## Installation Tutorial
 ### Prerequisites
-** For all downloads, do not change any default settings or tick/untick any extra boxes **
+**For all downloads, do not change any default settings or tick/untick any extra boxes**
 1.	Download and install [R](https://cran.cnr.berkeley.edu/bin/windows/base/R-3.6.1-win.exe). 
 2.  Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
 3.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
 4.  Download and install [Java](https://www.java.com/en/download/win10.jsp). 
 5.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
-6.	Download the webscrape.R file by hitting the green "Clone or download" file above this Readme. Scroll up if you don't see it. Download as a ZIP file and extract the .R file to a folder of your choice.
-7. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.
+6.	Download the webscrape.R file by hitting the green "Clone or download" file above this Readme. Scroll up if you don't see it. Download as a ZIP file and extract the .R file to a folder of your choice.[![brave-f2-CRMNPb8f.png](https://i.postimg.cc/SR16G6HM/brave-f2-CRMNPb8f.png)](https://postimg.cc/kR8RJbJJ)
+8. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.
 
 ### Step 1
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
@@ -18,11 +19,13 @@ The block of code should look like
 `install.packages("RSelenium")`
 `install.packages("tidyr")`
 `install.packages("tidyverse")`
-
+[![rstudio-p-Dhh-FEJQOU.png](https://i.postimg.cc/x1MmkVjH/rstudio-p-Dhh-FEJQOU.png)](https://postimg.cc/18RXTTq5)
 Wait for the installation to finish. The installation will be finished when the red stopsign in the middle of the screen goes away.
+[![rstudio-b-BBr7a-Z9w-U.png](https://i.postimg.cc/RZ6kKG2w/rstudio-b-BBr7a-Z9w-U.png)](https://postimg.cc/cvWkN7xJ)
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
-2. Run the code that begins with `driver`, then run the code that begins with `remDr`
+2. [![rstudio-JWpi-QIKj-XT.png](https://i.postimg.cc/1XVGJnS7/rstudio-JWpi-QIKj-XT.png)](https://postimg.cc/0KxKNNb7)
+3. Run the code that begins with `driver`, then run the code that begins with `remDr`
 ### Step 3
 1. The following step is optional but tests to make sure that the installation has gone smoothly. By running the code that begins with `remDr$navigate`, the Firefox Selenium browser should automatically navigate to Google.
 2. Navigate to the **ReferenceUSA** website on the Firefox browser.. **NOTE**: To sign into ReferenceUSA, it's likely you'll have to authenticate yourself. Many authentication systems open new tabs when asked to sign in. If a new tab opens, copy and paste the URL of that tab to the first tab. **This program only works on the first tab.**
