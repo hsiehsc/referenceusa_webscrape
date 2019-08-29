@@ -16,6 +16,8 @@ The block of code should look like
 `install.packages("RSelenium")`
 `install.packages("tidyr")`
 `install.packages("tidyverse")`
+
+Wait for the installation to finish. The installation will be finished when the red stopsign in the middle of the screen goes away.
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
 2. Run the code that begins with `driver`, then run the code that begins with `remDr`
