@@ -41,11 +41,11 @@ Wait for the installation to finish. The installation will be finished when the 
 1. Replace the `scrape(pages_scraped, replace_with_file_name)` with how many pages you'd like scraped as well as the requested file name of the file. An example might look like `scrape(5, bagels)` in which 5 pages would be scraped and the file would begin with "bagels". Run the line that you just edited.[![i-CINny-Btcr.gif](https://i.postimg.cc/501s1PtV/i-CINny-Btcr.gif)](https://postimg.cc/SXT6ff8T)
 
 ## Frequently Asked Questions (FAQ)
-**Q. Where is my scraped file stored?**
+**Q. Where is my scraped file stored?**  
 **A.** The file is stored in the same folder that the webscrape.R file is.
 
-**Q. What format is my file in?**
+**Q. What format is my file in?**  
 **A.** The file is a .csv (Comma Separated Values) file that Excel should have no problem reading. Do note that if you want to edit that file by changing the appearance or spacing of columns, re-save the file as a **.xlsx** file. The **.csv** file only stores raw data.
 
-**Q. An error appears that tells me that a port is currently in use.**
+**Q. An error appears that tells me that a port is currently in use.**  
 **A.** Restart RStudio and reopen it. Make sure to rerun the code that begins with `library` and restart the process.
