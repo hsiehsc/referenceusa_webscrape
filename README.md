@@ -11,6 +11,7 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 4.  Download and install [Java](https://www.java.com/en/download/win10.jsp). 
 5.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
 6.	Download the webscrape.R file by hitting the green "Clone or download" file above this Readme. Scroll up if you don't see it. Download as a ZIP file and extract the .R file to a folder of your choice.[![brave-f2-CRMNPb8f.png](https://i.postimg.cc/SR16G6HM/brave-f2-CRMNPb8f.png)](https://postimg.cc/kR8RJbJJ)
+** Make sure that the ZIP file is extracted. It might appear as a normal folder on Windows, but it's likely you'll have to right click that downloaded folder and click Extract Here. 
 8. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.
 
 ### Step 1
