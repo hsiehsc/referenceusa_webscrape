@@ -21,10 +21,11 @@ The block of code should look like
 `install.packages("tidyverse")`
 [![rstudio-p-Dhh-FEJQOU.png](https://i.postimg.cc/x1MmkVjH/rstudio-p-Dhh-FEJQOU.png)](https://postimg.cc/18RXTTq5)
 Wait for the installation to finish. The installation will be finished when the red stopsign in the middle of the screen goes away.
+
 [![rstudio-b-BBr7a-Z9w-U.png](https://i.postimg.cc/RZ6kKG2w/rstudio-b-BBr7a-Z9w-U.png)](https://postimg.cc/cvWkN7xJ)
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
-2. [![rstudio-JWpi-QIKj-XT.png](https://i.postimg.cc/1XVGJnS7/rstudio-JWpi-QIKj-XT.png)](https://postimg.cc/0KxKNNb7)
+[![rstudio-JWpi-QIKj-XT.png](https://i.postimg.cc/1XVGJnS7/rstudio-JWpi-QIKj-XT.png)](https://postimg.cc/0KxKNNb7)
 3. Run the code that begins with `driver`, then run the code that begins with `remDr`
 ### Step 3
 1. The following step is optional but tests to make sure that the installation has gone smoothly. By running the code that begins with `remDr$navigate`, the Firefox Selenium browser should automatically navigate to Google.
