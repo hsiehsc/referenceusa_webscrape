@@ -9,7 +9,7 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 4.	Open RStudio and copy and paste the **webscrape.R** file into the top left quadrant of RStudio. The file can be found above the readme. 
 
 ### Step 1
-1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, highlight the block of code and hit run in the top right of the quadrant.
+1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
 2. Run the code that begins with `driver`, then run the code that begins with `remDr`
