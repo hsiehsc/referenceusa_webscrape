@@ -10,9 +10,10 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 3.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
 4.  Download and install [Java](https://www.java.com/en/download/win10.jsp). 
 5.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
-6.	Download the webscrape.R file by hitting the green "Clone or download" file above this Readme. Scroll up if you don't see it. Download as a ZIP file and extract the .R file to a folder of your choice.[![brave-f2-CRMNPb8f.png](https://i.postimg.cc/SR16G6HM/brave-f2-CRMNPb8f.png)](https://postimg.cc/kR8RJbJJ)
+6.	Download the webscrape.R file by hitting the green "Clone or download" file above this Readme. Scroll up if you don't see it. Download as a ZIP file and extract the .R file to a folder of your choice.[![iuw6329w-Ir.gif](https://i.postimg.cc/d1rpqkFb/iuw6329w-Ir.gif)](https://postimg.cc/TL2C0Pp0)
 **Make sure that the ZIP file is extracted. It might appear as a normal folder on Windows, but it's likely you'll have to right click that downloaded folder and click Extract Here.**
-7. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.
+[![0-Tt-Fm-Za-IBn.gif](https://i.postimg.cc/mkQSzC6s/0-Tt-Fm-Za-IBn.gif)](https://postimg.cc/fSRd1tN2)
+7. Open RStudio and press Ctrl+O. Navigate to the webscrape.R file and open it in R. Alternatively, in the top left corner of RStudio there is a file tab. File -> Open File -> Navigate to the webscrape.R file.[![Yn1t-V4fv-Mm.gif](https://i.postimg.cc/LsDKfgwj/Yn1t-V4fv-Mm.gif)](https://postimg.cc/PLCRnJtq)
 
 ### Step 1
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
@@ -41,13 +42,10 @@ Wait for the installation to finish. The installation will be finished when the 
 
 ## Frequently Asked Questions (FAQ)
 **Q. Where is my scraped file stored?**
-
 **A.** The file is stored in the same folder that the webscrape.R file is.
 
 **Q. What format is my file in?**
-
 **A.** The file is a .csv (Comma Separated Values) file that Excel should have no problem reading. Do note that if you want to edit that file by changing the appearance or spacing of columns, re-save the file as a **.xlsx** file. The **.csv** file only stores raw data.
 
 **Q. An error appears that tells me that a port is currently in use.**
-
 **A.** Restart RStudio and reopen it. Make sure to rerun the code that begins with `library` and restart the process.
