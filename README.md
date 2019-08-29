@@ -3,10 +3,11 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 
 ## Installation Tutorial
 ### Prerequisites
-1.	Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
-2.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
-3.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
-4.	Open RStudio and copy and paste the **webscrape.R** file into the top left quadrant of RStudio. The file can be found above the readme. 
+1.	Download and install [R](https://cran.cnr.berkeley.edu/bin/windows/base/R-3.6.1-win.exe). 
+2.  Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
+3.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
+4.	If you do not have Mozilla Firefox installed, install [Firefox](https://www.mozilla.org/en-US/firefox/)
+5.	Open RStudio and copy and paste the **webscrape.R** file into the top left quadrant of RStudio. The file can be found above the readme. 
 
 ### Step 1
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
