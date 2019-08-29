@@ -27,7 +27,7 @@ Wait for the installation to finish. The installation will be finished when the 
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
 [![rstudio-JWpi-QIKj-XT.png](https://i.postimg.cc/1XVGJnS7/rstudio-JWpi-QIKj-XT.png)](https://postimg.cc/0KxKNNb7)
-3. Run the code that begins with `driver`. When the code is done running, Firefox should open automatically.
+3. Run the code that begins with `driver`. When the code is done running, Firefox should open automatically. **DO NOT EXIT THIS WINDOW**
 4. Run the code that begins with `remDr`
 ### Step 3
 1. The following step is optional but tests to make sure that the installation has gone smoothly. By running the code that begins with `remDr$navigate`, the Firefox Selenium browser should automatically navigate to Google.
