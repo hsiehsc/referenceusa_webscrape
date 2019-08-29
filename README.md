@@ -22,6 +22,7 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 1. Highlight and select the text from lines **27 to 116**. The code has been marked by *asterisks* **(*)** for easy selection. If done correctly, there should be a `scrape` object that appears in the **right hand side** of the program.
 ### Step 5
 1. Replace the `scrape(pages_scraped, replace_with_file_name)` with how many pages you'd like scraped as well as the requested file name of the file. An example might look like `scrape(5, bagels)` in which 5 pages would be scraped and the file would begin with "bagels".
+2. Run the line that you just edited.
 
 ## Frequently Asked Questions (FAQ)
 **Q. Where is my scraped file stored?**
