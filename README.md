@@ -1,12 +1,6 @@
 # Reference USA Webscraper
 A webscraper written in R and Selenium to scrape entries from Reference USA
 
-### Installation Tutorial
-Please carefully follow all steps.
-1.	Run the RStudio-1.2.1335.exe file from the download attached
-2.	Run the Rtools35.exe file from the download attached
-3.	If you do not have Mozilla Firefox installed, run the Firefox Installer.exe from the download attached
-
 ## Installation Tutorial
 ### Prerequisites
 1.	Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
