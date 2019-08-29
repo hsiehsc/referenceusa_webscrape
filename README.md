@@ -27,7 +27,8 @@ Wait for the installation to finish. The installation will be finished when the 
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
 [![rstudio-JWpi-QIKj-XT.png](https://i.postimg.cc/1XVGJnS7/rstudio-JWpi-QIKj-XT.png)](https://postimg.cc/0KxKNNb7)
-3. Run the code that begins with `driver`, then run the code that begins with `remDr`
+3. Run the code that begins with `driver`. When the code is done running, Firefox should open automatically.
+4. Run the code that begins with `remDr`
 ### Step 3
 1. The following step is optional but tests to make sure that the installation has gone smoothly. By running the code that begins with `remDr$navigate`, the Firefox Selenium browser should automatically navigate to Google.
 2. Navigate to the **ReferenceUSA** website on the Firefox browser.. **NOTE**: To sign into ReferenceUSA, it's likely you'll have to authenticate yourself. Many authentication systems open new tabs when asked to sign in. If a new tab opens, copy and paste the URL of that tab to the first tab. **This program only works on the first tab.**
