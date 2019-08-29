@@ -3,6 +3,7 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 
 ## Installation Tutorial
 ### Prerequisites
+** For all downloads, do not change any default settings or tick/untick any extra boxes **
 1.	Download and install [R](https://cran.cnr.berkeley.edu/bin/windows/base/R-3.6.1-win.exe). 
 2.  Download and install [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/). As of the time of writing this tutorial, the current download is **RStudio-1.2.1335.exe**.
 3.	Download and install [RTools](https://cran.r-project.org/bin/windows/Rtools/). As of the time of writing this tutorial, the current download is **Rtools35.exe**. *Download the recommended version instead of the experimental version*
