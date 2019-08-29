@@ -12,11 +12,10 @@ A webscraper written in R and Selenium to scrape entries from Reference USA
 
 ### Step 1
 1. **NOTE**: If this is your **first** time setting up RStudio, run the code under Step 1 labeled as only needing to be run **once**. To do this, **highlight** the block of code and hit **Run** in the top right of the quadrant.
-The block of code should look like `install.packages("RSelenium")
-
-install.packages("tidyr")
-
-install.packages("tidyverse")`
+The block of code should look like 
+`install.packages("RSelenium")`
+`install.packages("tidyr")`
+`install.packages("tidyverse")`
 ### Step 2
 1. Run the code that begins with `library`. There should be **three** lines of code.
 2. Run the code that begins with `driver`, then run the code that begins with `remDr`
